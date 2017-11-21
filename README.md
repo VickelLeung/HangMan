@@ -1,2 +1,2 @@
 # HangMan
-A hangman game develop during summer in my first year of computer science
+A hangman game developed during summer in my first year of computer science
